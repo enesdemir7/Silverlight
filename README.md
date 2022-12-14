@@ -19,8 +19,6 @@ Download Node.js install all dependencies
 ```bash
 npm install
 yarn install
-npm i -g wappalyzer
-
 ```
 
 Start dev with hot reload
