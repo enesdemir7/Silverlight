@@ -13,12 +13,14 @@ Silverlight is an application where they can enter the URL of the website and in
 
 
 
-## Installation (Fork / Clone)
+## Installation
 
-Download and install all dependencies
+Download Node.js install all dependencies
 ```bash
 npm install
 yarn install
+npm i -g wappalyzer
+
 ```
 
 Start dev with hot reload
