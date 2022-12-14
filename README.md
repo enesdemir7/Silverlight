@@ -3,7 +3,7 @@
 ## Introduction
 
 ![image](https://user-images.githubusercontent.com/94674508/207467056-018a9446-0db3-4320-9908-6a79895fb2f4.png)
-Silverlight is an application where they can enter the URL of the website and inform about the technology of the website and how many pages the website contains.
+Silverlight is an application where you can enter the URL of the website and inform about the technology of the website and how many pages the website contains.
 
 
 ## Screenshot
